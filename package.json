@@ -1,0 +1,15 @@
+{
+  "name": "ch.dnastudios.unityliblsystem",
+  "version": "0.9.0",
+  "displayName": "UnityLib-lsystem",
+  "description": "A simple L-System solver.",
+  "unity": "2019.1",
+  "licensesUrl": "https://github.com/DavidDNA/UnityLib-lsystem/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "author": {
+    "name": "DNA Studios",
+    "email": "contact@dna-studios.ch",
+    "url": "https://www.dna-studios.ch"
+  }
+}
